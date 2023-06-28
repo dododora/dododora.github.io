@@ -1,0 +1,1 @@
+blog example for ubuntu
